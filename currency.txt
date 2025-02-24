@@ -1,0 +1,4 @@
+SGD
+RMB
+MYR
+USD
